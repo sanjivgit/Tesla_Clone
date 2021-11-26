@@ -9,6 +9,11 @@ body{
   width: 100%;
   overflow-x: hidden;
 }
+a{
+  text-decoration: none;
+}
+
+
 
 @keyframes animate {
   0% 20% 50% 80% 100% {
